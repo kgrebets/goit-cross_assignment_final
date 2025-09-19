@@ -57,7 +57,7 @@ The app allows users to create boxes, view their details, generate and scan QR c
 
 ## 📷 Screenshots
 
-- Boxes list and search
+- Boxes list and search  
   <img src="./b1.jpg" alt="Boxes list" width="250"/>
   <img src="./b11.jpg" alt="Boxes list" width="250"/>
 
