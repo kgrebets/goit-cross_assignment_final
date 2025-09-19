@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project is an improved version of the **Boxes App** developed during the course.  
-The goal was not to build an app from scratch, but to **bring the existing product to a new level of quality, usability, and functionality**.
+The goal was extend an app with new features.
 
 The app allows users to create boxes, view their details, generate and scan QR codes for quick access, and share box information.
 
