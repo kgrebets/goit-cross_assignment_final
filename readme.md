@@ -58,7 +58,8 @@ The app allows users to create boxes, view their details, generate and scan QR c
 ## 📷 Screenshots
 
 - Boxes list  
-  <img src="./b1.jpg" alt="Boxes list" width="300"/>
+  <img src="./b1.jpg" alt="Boxes list" width="200"/>
+  <img src="./b11.jpg" alt="Boxes list" width="200"/>
 
 - Boxes list  
   ![Boxes list](./b1.jpg)
@@ -70,4 +71,7 @@ The app allows users to create boxes, view their details, generate and scan QR c
   ![Create box](./b3.jpg)
 
 - QR scanner  
-  ![QR scanner](./b1.jpg)
+  ![QR scanner](./b4.jpg)
+
+- Share dialog  
+  ![QR scanner](./5.jpg)
